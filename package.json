@@ -1,0 +1,33 @@
+{
+  "name": "caldb_ex",
+  "version": "1.0.0",
+  "description": "Experiment for accessing data from the caldb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dickyw71/caldb_ex.git"
+  },
+  "keywords": [
+    "caldb",
+    "nodejs",
+    "mocha",
+    "node-oracledb"
+  ],
+  "author": "Richard Wheatley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dickyw71/caldb_ex/issues"
+  },
+  "homepage": "https://github.com/dickyw71/caldb_ex#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "csv": "^3.1.0",
+    "oracledb": "^2.3.0",
+    "seneca": "^3.7.0"
+  }
+}
