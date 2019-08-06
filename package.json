@@ -28,6 +28,6 @@
   "dependencies": {
     "csv": "^3.1.0",
     "oracledb": "^2.3.0",
-    "seneca": "^3.7.0"
+    "seneca": "^3.13.0"
   }
 }
